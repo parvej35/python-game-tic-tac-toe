@@ -1,4 +1,5 @@
-<b>Python Game - Tic Tac Toe</b>
+<h2>Python Game - Tic Tac Toe</h2>
+
 In this Python project, we are going to build an interactive game of <b>Tic Tac Toe</b>.
 
 <b>What is Tic Tac Toe?</b>
